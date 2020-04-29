@@ -1,1 +1,1 @@
-web gunicorn worldbank:app
+web: MIX_ENV=prod mix ecto.migrate && mix phx.server
