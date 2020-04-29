@@ -29,7 +29,12 @@ In front End I used :
 
 ## Result  <a name="Python Library used"></a>
 
-For viewing the World Bank Data Analytics Dashboard [click here](https://toulikdevdata.herokuapp.com/)
+For viewing the World Bank Data Analytics Dashboard v1 [click here](https://toulikdevdata.herokuapp.com/)
+For demo of World Bank Data Analytics Dashboard v2 [Click here](https://toulikdev2.herokuapp.com/)
+
+## Updates  <a name="Python Library used"></a>
+
+[Click here](https://github.com/Toulik-Das/Advanced-Data-Analytics-Dashboard) for more information about v2. 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
