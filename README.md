@@ -30,3 +30,7 @@ In front End I used :
 ## Result  <a name="Python Library used"></a>
 
 For viewing the World Bank Data Analytics Dashboard [click here](https://toulikdevdata.herokuapp.com/)
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to World Bank for the data. You can find the Licensing for the data and other descriptive information at the Wold Bank [web page](https://data.worldbank.org/).Feel free to re-use the code here as you would like! If it's possible push some mode data analytics result in the dashboard.
