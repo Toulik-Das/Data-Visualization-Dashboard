@@ -38,4 +38,4 @@ For demo of World Bank Data Analytics Dashboard v2 [Click here](https://toulikde
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to World Bank for the data. You can find the Licensing for the data and other descriptive information at the Wold Bank [web page](https://data.worldbank.org/).Feel free to re-use the code here as you would like! If it's possible push some mode data analytics result in the dashboard.
+Must give credit to World Bank for the data. You can find the Licensing for the data and other descriptive information at the Wold Bank [web page](https://data.worldbank.org/).Feel free to re-use the code here as you would like! If it's possible push some more data analytics result in the dashboard.
